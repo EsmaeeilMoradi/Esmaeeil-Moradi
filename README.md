@@ -6,7 +6,7 @@ Developer & Teacher
 -----------------------------
 
 *   🖥️  See my portfolio Here , you can find some of my open-source contributions.
-*   🚀  I'm currently working on [Dariahamrah](https://dariahamrah.ir/)
+*   🚀  I'm currently working as a freelancer and Android consultant.
 *   🤝  I'm open to collaborating on interesting projects as an android developer
                   
 ### Skills
